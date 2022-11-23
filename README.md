@@ -7,7 +7,7 @@
  
  使用方法：输入第一个数，再点击右下角“数字2”，输入第二个数后，选择“加”或者“减”，Label1控件就会显示结果。
  
- 右上角绿色按钮“<>code”-Download Zip即可下载全部源码 `include<README.md>`
+ 右上角绿色按钮“<>code”-Download Zip即可下载全部源码 `include<README.md>` 如果使用手机扫码，可能无法轻易下载。可以尝试在Releases中下载
  
  在此项目中，部分字体使用了[oooooohmygosh](https://space.bilibili.com/38053181)先生的[得意黑](https://github.com/atelier-anchor/smiley-sans)字体
 ## Star History

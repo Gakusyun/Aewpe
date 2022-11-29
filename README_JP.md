@@ -11,6 +11,6 @@
  
  右上の緑色のボタン“<>code”-Download Zipを押して全部の源码をダウンロードをします。 `include<README.md>` ```スマホでＱＲコードをよみとる、簡単にダウンロードをしません。Releasesでダウンロードをすることを見てください```
  
- このプロジェクトで，部分フォントは[oooooohmygosh](https://space.bilibili.com/38053181)さんの[得意黑](https://github.com/atelier-anchor/smiley-sans)です。
+ このプロジェクトで，部分フォントは[oooooohmygosh](https://space.bilibili.com/38053181)さんの[Smiley Sans](https://github.com/atelier-anchor/smiley-sans)です。
 ## Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=Gakusyun/Aewpe&type=Date)](https://star-history.com/#Gakusyun/Aewpe&Date)

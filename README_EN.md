@@ -1,7 +1,7 @@
 # Aewpe
 The junk project written in VB for the lab class
 
-[Japanese] (README_JP.md) [Chinese Simplified] (README.md) [Chinese Traditional] (README_TC.md)
+[English,presented by Bing](README_EN.md)[日本語](README_JP.md) [简体中文](README.md) [繁體中文](README_TC.md)
 ## Teacher, look at me, look at me!!!!!!!!!!!
  Aewpe is an optimized version of the simple "loop scrolling subtitles" program, I removed the last sentence 'If I = Len(S) Then I = 0', so it will only scroll once; The interval between 200ms is too short, and before I can see the last word, I am assigned 0, which is more intuitive after modification.
 

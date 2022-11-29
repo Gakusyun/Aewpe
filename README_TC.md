@@ -3,7 +3,7 @@
 
 [English,presented by Bing](README_EN.md)
 
-[日本語](README_JP.md) [简体中文](README.md) [繁體中文](README_TC.md)
+[にほんご](README_JP.md) [简体中文](README.md) [繁體中文](README_TC.md)
 ## 老師，看我看我!!!!!!!!!!!
  Aewpe 是簡單「循環滾動字幕」程序的優化版，我刪去了最後一句 `If I = Len(S) Then I = 0` ，故只會滾動一次；200ms間隔太短，還沒看清最後一個字，就給`I`賦了`0`，修改後更符合直覺。
 

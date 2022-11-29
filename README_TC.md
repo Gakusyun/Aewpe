@@ -11,7 +11,7 @@
  
  使用方法：輸入第一個數，再點擊右下角「數字2」，輸入第二個數後，選擇「加」或者「減」，Label1控件就會顯示結果。
  
- 右上角綠色按鈕「<>code」-Download Zip即可下載全部源碼 `include<README.md>` `如果使用手機掃QR碼，可能無法輕易下載。可以嘗試在Releases中下載`
+ [主界面](https://github.com/Gakusyun/Aewpe)右上角綠色按鈕「<>code」-Download Zip即可下載全部源碼 `include<README.md>` `如果使用手機掃QR碼，可能無法輕易下載。可以嘗試在Releases中下載`
  
  在此項目中，部分字體使用了[oooooohmygosh](https://space.bilibili.com/38053181)先生的[得意黑](https://github.com/atelier-anchor/smiley-sans)字體
 ## Star History

@@ -9,7 +9,7 @@ The junk project written in VB for the lab class
 
 Sewpe is an addition and subtraction calculator written by myself
  
-How to use: Enter the first number, then click "Number 2" in the lower right corner, enter the second number, select "Add" or "Subtract", and the Label1 control will display the result.
+How to use: Enter the first number, then click "Number 2" in the lower right corner, enter the second number, select "Plus" or "Subtract", and the Label1 control will display the result.
  
 The green button "<>code" in the upper right corner - Download Zip can download all the source code 'include<README.md>' 'If you use your mobile phone to scan the QR code, it may not be easy to download. Can try to download in Releases'
  

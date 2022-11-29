@@ -11,7 +11,7 @@ Sewpe is an addition and subtraction calculator written by myself
  
 How to use: Enter the first number, then click "Number 2" in the lower right corner, enter the second number, select "Plus" or "Subtract", and the Label1 control will display the result.
  
-The green button <>code-Download Zip can download all the source code `include<README.md>` `If you use your mobile phone to scan the QR code, it may not be easy to download. Can try to download in Releases`
+The green button of [Main page](https://github.com/Gakusyun/Aewpe) <>code-Download Zip can download all the source code `include<README.md>` `If you use your mobile phone to scan the QR code, it may not be easy to download. Can try to download in Releases`
  
 In this project, some fonts use the [Smiley Sans](https://github.com/atelier-anchor/smiley-sans) font by Mr.[oooooohmygosh](https://space.bilibili.com/38053181).
 ## Star History

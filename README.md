@@ -1,7 +1,7 @@
 # Aewpe
 实验课用vb写的junk项目
 
-[English, presented by bing.com/translator](README_EN.md)
+[English](README_EN.md), presented by [bing.com/translator](https://bing.com/translator/)
 
 [にほんご](README_JP.md) 简体中文 [繁體中文](README_TC.md)
 ## 老师，看我看我!!!!!!!!!!!

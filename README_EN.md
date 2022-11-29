@@ -13,6 +13,6 @@ How to use: Enter the first number, then click "Number 2" in the lower right cor
  
 The green button "<>code" in the upper right corner - Download Zip can download all the source code 'include<README.md>' 'If you use your mobile phone to scan the QR code, it may not be easy to download. Can try to download in Releases'
  
-In this project, some fonts use the [Proud Black](https://github.com/atelier-anchor/smiley-sans) font by Mr. [oooooohmygosh](https://space.bilibili.com/38053181).
+In this project, some fonts use the [Smiley Sans](https://github.com/atelier-anchor/smiley-sans) font by Mr.[oooooohmygosh](https://space.bilibili.com/38053181).
 ## Star History
-[! [Star History Chart](https://api.star-history.com/svg?repos=Gakusyun/Aewpe&type=Date)](https://star-history.com/#Gakusyun/Aewpe&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Gakusyun/Aewpe&type=Date)](https://star-history.com/#Gakusyun/Aewpe&Date)

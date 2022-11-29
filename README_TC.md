@@ -1,7 +1,7 @@
 # Aewpe
 實驗課用vb寫的junk項目
 
-[English, presented by bing.com/translator](README_EN.md)
+[English](README_EN.md), presented by [bing.com/translator](https://bing.com/translator/)
 
 [にほんご](README_JP.md) [简体中文](README.md) 繁體中文
 ## 老師，看我看我!!!!!!!!!!!

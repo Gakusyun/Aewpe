@@ -1,7 +1,7 @@
 # Aewpe
 The junk project written in VB for the lab class
 
-[English, presented by Bing](README_EN.md)
+English, presented by bing.com/translator
 
 [にほんご](README_JP.md) [简体中文](README.md) [繁體中文](README_TC.md)
 ## Teacher, look at me, look at me!!!!!!!!!!!

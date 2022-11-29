@@ -1,9 +1,9 @@
 # Aewpe
 実験クラスで、vbでこのjunkプロジェクトを書きました。
 
-[English, presented by Bing](README_EN.md) 
+[English, presented by bing.com/translator](README_EN.md)
 
-[にほんご](README_JP.md) [简体中文](README.md) [繁體中文](README_TC.md)
+にほんご [简体中文](README.md) [繁體中文](README_TC.md)
 ## 先生，見てください!!!!!!!!!!!
  Aewpe は簡単“循环滚动字幕”プログラムの优化版，最後の `If I = Len(S) Then I = 0` を削除しました，そして、一回だけ滚动します；200msの间隔は短い，最后の字を見えないで，就`I`に`０`を赋ました，修改后は直觉に符合します。
 

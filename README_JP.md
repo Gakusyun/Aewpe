@@ -1,7 +1,7 @@
 # Aewpe
 実験クラスで、vbでこのjunkプロジェクトを書きました。
 
-[English, presented by bing.com/translator](README_EN.md)
+[English](README_EN.md), presented by [bing.com/translator](https://bing.com/translator/)
 
 にほんご [简体中文](README.md) [繁體中文](README_TC.md)
 ## 先生，見てください!!!!!!!!!!!

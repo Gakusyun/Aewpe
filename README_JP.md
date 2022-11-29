@@ -11,7 +11,7 @@
  
  使い方：一目の数を输入して，右下の“数字2”をクリックします，そして二目の数を输入します。後は，“加”か“减”の一つを选择する，最後、Label1控件は结果を显示します。
  
- 右上の緑色のボタン“<>code”-Download Zipを押して全部の源码をダウンロードをします。 `include<README.md>` ```スマホでＱＲコードをよみとる、簡単にダウンロードをしません。Releasesでダウンロードをすることを見てください```
+[メインページ](https://github.com/Gakusyun/Aewpe)の右上の緑色のボタン“<>code”-Download Zipを押して全部の源码をダウンロードをします。 `include<README.md>` ```スマホでＱＲコードをよみとる、簡単にダウンロードをしません。Releasesでダウンロードをすることを見てください```
  
  このプロジェクトで，部分のフォントは[oooooohmygosh](https://space.bilibili.com/38053181)さんの[Smiley Sans](https://github.com/atelier-anchor/smiley-sans)です。
 ## Star History
